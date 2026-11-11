@@ -39,4 +39,7 @@ The story takes place in Hawkins, where a group of friends discovers mysterious 
 > Friends don't lie.
 
 *This is my favorite series because it is exciting and entertaining.*
+## Thank You for Reading!
+
+Thank you for checking out my first GitHub repository!
 
